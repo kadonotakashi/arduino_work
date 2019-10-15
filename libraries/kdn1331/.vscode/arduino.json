@@ -1,0 +1,4 @@
+{
+    "board": "SPRESENSE:spresense:spresense",
+    "configuration": "Core=Main,Debug=Disabled,UploadSpeed=115200"
+}

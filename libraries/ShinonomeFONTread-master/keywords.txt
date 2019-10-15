@@ -1,0 +1,10 @@
+ShinonomeFONTread	KEYWORD1
+SPIFFS_Shinonome_Init2F	KEYWORD2
+SPIFFS_Shinonome_Init3F	KEYWORD2
+Sjis_inc_FntRead	KEYWORD2
+Sj_inc_read	KEYWORD2
+SjisToShinonome16FontRead	KEYWORD2
+SjisToShinonome16FontRead_ALL	KEYWORD2
+SjisToShinonomeFNTadrs	KEYWORD2
+SPIFFS_Flash_ShinonomeFNTread	KEYWORD2
+SPIFFS_Flash_ShinonomeFNTread_Harf	KEYWORD2

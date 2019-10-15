@@ -1,0 +1,6 @@
+{
+    "sketch": "read_write.ino",
+    "port": "COM31",
+    "board": "SPRESENSE:spresense:spresense",
+    "configuration": "Core=Main,Debug=Enabled,UploadSpeed=115200"
+}

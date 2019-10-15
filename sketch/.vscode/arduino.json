@@ -1,0 +1,6 @@
+{
+    "board": "SPRESENSE:spresense:spresense",
+    "configuration": "Core=Sub1,Debug=Enabled,UploadSpeed=115200",
+    "port": "COM31",
+    "sketch": "SPRESENSE\\spresense_9341_subcore\\spresense_9341_subcore.ino"
+}

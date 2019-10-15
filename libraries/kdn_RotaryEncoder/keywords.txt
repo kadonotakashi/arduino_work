@@ -1,0 +1,3 @@
+kdn_RotaryEncoder KEYWORD1
+CheckRotaryEncoder KEYWORD2
+CheckButton KEYWORD2

@@ -1,0 +1,6 @@
+{
+    "sketch": "MainAudio.ino",
+    "port": "COM31",
+    "board": "SPRESENSE:spresense:spresense",
+    "configuration": "Core=Sub1,Debug=Enabled,UploadSpeed=115200"
+}

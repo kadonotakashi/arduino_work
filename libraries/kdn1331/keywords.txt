@@ -1,0 +1,11 @@
+kdn1331 KEYWORD1
+Init1331    KEYWORD2
+clear_screen    KEYWORD2
+DrawPix KEYWORD2
+DrawLine    KEYWORD2
+DrawRectangle   KEYWORD2
+DrawRectangleFill   KEYWORD2
+ 
+GetFontInf  KEYWORD2
+put_string_fixed    KEYWORD2
+getFntCnt   KEYWORD2
